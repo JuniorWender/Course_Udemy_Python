@@ -3,8 +3,8 @@
 nome="jorge wender"
 sobrenome="rodrigues favato"
 
-nome_completo = nome+ " " +sobrenome
+nome_completo = nome+ " " +sobrenome+ " "
 
 print(nome_completo)
-
+print("-"*50)
 print(nome_completo*3)
